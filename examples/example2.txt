@@ -1,0 +1,1 @@
+dotnet run "tendu first side 1 degage first side 1 battement first side 1 retire first na 1"
